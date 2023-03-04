@@ -12,6 +12,7 @@ com\portfolio\jaguero\JagueroApplication.class
 com\portfolio\jaguero\Entity\Persona.class
 com\portfolio\jaguero\service\ImpPersonaService.class
 com\portfolio\jaguero\Controller\CEducacion.class
+com\portfolio\jaguero\WebConfig.class
 com\portfolio\jaguero\dto\dtoExperiencia.class
 com\portfolio\jaguero\Repository\RExperiencia.class
 com\portfolio\jaguero\Security\Repository\iUsuarioRepository.class
